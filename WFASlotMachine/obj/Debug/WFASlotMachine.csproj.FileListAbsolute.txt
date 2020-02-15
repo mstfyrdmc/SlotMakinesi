@@ -1,0 +1,20 @@
+C:\Users\Dell\source\repos\WFASlotMachine\WFASlotMachine\bin\Debug\WFASlotMachine.exe.config
+C:\Users\Dell\source\repos\WFASlotMachine\WFASlotMachine\bin\Debug\WFASlotMachine.exe
+C:\Users\Dell\source\repos\WFASlotMachine\WFASlotMachine\bin\Debug\WFASlotMachine.pdb
+C:\Users\Dell\source\repos\WFASlotMachine\WFASlotMachine\obj\Debug\WFASlotMachine.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\WFASlotMachine\WFASlotMachine\obj\Debug\WFASlotMachine.Form1.resources
+C:\Users\Dell\source\repos\WFASlotMachine\WFASlotMachine\obj\Debug\WFASlotMachine.Properties.Resources.resources
+C:\Users\Dell\source\repos\WFASlotMachine\WFASlotMachine\obj\Debug\WFASlotMachine.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\WFASlotMachine\WFASlotMachine\obj\Debug\WFASlotMachine.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\WFASlotMachine\WFASlotMachine\obj\Debug\WFASlotMachine.exe
+C:\Users\Dell\source\repos\WFASlotMachine\WFASlotMachine\obj\Debug\WFASlotMachine.pdb
+C:\Users\Mustafa YARDIMCI\Desktop\WFASlotMachine\WFASlotMachine\bin\Debug\WFASlotMachine.exe.config
+C:\Users\Mustafa YARDIMCI\Desktop\WFASlotMachine\WFASlotMachine\bin\Debug\WFASlotMachine.exe
+C:\Users\Mustafa YARDIMCI\Desktop\WFASlotMachine\WFASlotMachine\bin\Debug\WFASlotMachine.pdb
+C:\Users\Mustafa YARDIMCI\Desktop\WFASlotMachine\WFASlotMachine\obj\Debug\WFASlotMachine.csprojAssemblyReference.cache
+C:\Users\Mustafa YARDIMCI\Desktop\WFASlotMachine\WFASlotMachine\obj\Debug\WFASlotMachine.Form1.resources
+C:\Users\Mustafa YARDIMCI\Desktop\WFASlotMachine\WFASlotMachine\obj\Debug\WFASlotMachine.Properties.Resources.resources
+C:\Users\Mustafa YARDIMCI\Desktop\WFASlotMachine\WFASlotMachine\obj\Debug\WFASlotMachine.csproj.GenerateResource.cache
+C:\Users\Mustafa YARDIMCI\Desktop\WFASlotMachine\WFASlotMachine\obj\Debug\WFASlotMachine.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa YARDIMCI\Desktop\WFASlotMachine\WFASlotMachine\obj\Debug\WFASlotMachine.exe
+C:\Users\Mustafa YARDIMCI\Desktop\WFASlotMachine\WFASlotMachine\obj\Debug\WFASlotMachine.pdb
